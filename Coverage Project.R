@@ -1,4 +1,7 @@
-# Load the libraries SUPER SERIOUS
+# Author: Payton Robinette
+
+
+# Load the libraries 
 library(tidyverse) #data manipulation
 library(hrbrthemes) #chart themes
 library(rms) #regression modeling
