@@ -1,4 +1,4 @@
-# Load the libraries poop paytie is crazy
+# Load the libraries SUPER SERIOUS
 library(tidyverse) #data manipulation
 library(hrbrthemes) #chart themes
 library(rms) #regression modeling
